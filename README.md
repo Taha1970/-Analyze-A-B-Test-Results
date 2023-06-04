@@ -8,11 +8,11 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 # dataset 
 ab_data.csv
 # tools
-python language
-hypothesis testing
+-python language
+-hypothesis testing
 # statistics computed
-Null Hypothesis
-two-sample z-test
-logistic regression
+-Null Hypothesis
+-two-sample z-test
+-logistic regression
 # result
  no need to switch from old page to new page as we fail to reject the null hypothesis.
