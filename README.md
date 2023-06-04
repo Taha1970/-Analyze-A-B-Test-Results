@@ -10,9 +10,9 @@ ab_data.csv
 # tools
 python language
 hypothesis testing
-#statistics computed
+# statistics computed
 Null Hypothesis
 two-sample z-test
 logistic regression
-#result
+# result
  no need to switch from old page to new page as we fail to reject the null hypothesis.
